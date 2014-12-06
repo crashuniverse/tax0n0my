@@ -1,0 +1,12 @@
+{
+  "name": "tax0n0my",
+  "version": "0.1.0",
+  "authors": [
+    "Priya Ranjan Singh <mail@priyaranjan.net>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "d3": "~3.4.13"
+  }
+}
